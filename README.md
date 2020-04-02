@@ -4,4 +4,10 @@
 
 ### Hello welcome
 
-#### Welcome to my page
+#### DEvops Training content
+
+1.Aws
+2.Github
+3.Git
+4.Ansible
+5.Jenkins
